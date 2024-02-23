@@ -1,7 +1,7 @@
 # SatIQ, Jamming Analysis
 
 This reposistory contains the data collection and analysis code used in the paper "Sticky Fingers: Resilience of Satellite Fingerprinting Systems against Jamming Attacks".
-This work uses the `SatIQ` system from the paper "Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting", evaluating the resilience of the system against jamming attacks.
+This work uses the `SatIQ` system from the paper "Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting", evaluating the resilience of the system against jamming attacks - the repo for this system can be found at https://github.com/ssloxford/SatIQ.
 
 Additional materials:
 - Paper (arXiv preprint): https://arxiv.org/abs/2402.05042
