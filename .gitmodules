@@ -1,0 +1,3 @@
+[submodule "data-collection/code/iridium_extractor/iridium_toolkit"]
+	path = data-collection/code/iridium_extractor/iridium_toolkit
+	url = https://github.com/jsmailes/iridium-toolkit.git
